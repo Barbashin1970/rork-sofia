@@ -105,17 +105,3 @@
 ```
 
 Этот README описывает и объясняет процесс публикации вашего Expo React Native Web проекта из GitHub на Vercel, учитывая ваш рабочий скрипт сборки и структуру проекта.
-
-Если хотите, могу помочь добавить в репозиторий этот файл через коммит.
-
-[1] https://github.com/Barbashin1970/ro
-[2] https://dev.to/tobidelly/step-by-step-guide-to-deploying-a-project-to-vercel-using-github-actions-for-free-l61
-[3] https://techhub.iodigital.com/articles/take-control-over-your-ci-cd-process-with-github-actions-vercel
-[4] https://vercel.com/docs/deployments
-[5] https://vercel.com/docs/git
-[6] https://vercel.com/docs/git/vercel-for-github
-[7] https://www.youtube.com/watch?v=E8xaV6fiTaA
-[8] https://github.com/vercel/vercel
-[9] https://vercel.com/docs/deployments/managing-deployments
-[10] https://www.jhkinfotech.com/blog/how-to-deploy-projects-on-vercel-with-github
-[11] https://gist.github.com/ky28059/1c9af929a9030105da8cf00006b50484
