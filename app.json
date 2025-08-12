@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Индивидуальные аромасмеси из эфирных масел на основе даты рождения",
-    "slug": "individuellnye-aromassemi-iz-efirnyh-masel-na-osnove-daty-rozhdeniya",
+    "name": "sofia",
+    "slug": "sofia",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -15,14 +15,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "app.rork.individuellnye-aromassemi-iz-efirnyh-masel-na-osnove-daty-rozhdeniya"
+      "bundleIdentifier": "app.rork.sofia"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "app.rork.individuellnye-aromassemi-iz-efirnyh-masel-na-osnove-daty-rozhdeniya"
+      "package": "app.rork.sofia"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
