@@ -5,7 +5,8 @@
   "scripts": {
     "start": "bunx rork start -p jxq1zwdj0jdx2rnbvxpwe --tunnel",
     "start-web": "bunx rork start -p jxq1zwdj0jdx2rnbvxpwe --web --tunnel",
-    "start-web-dev": "DEBUG=expo* bunx rork start -p jxq1zwdj0jdx2rnbvxpwe --web --tunnel"
+    "start-web-dev": "DEBUG=expo* bunx rork start -p jxq1zwdj0jdx2rnbvxpwe --web --tunnel",
+    "build": "expo build:web"
   },
   "dependencies": {
     "@expo/vector-icons": "^14.1.0",
